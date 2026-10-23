@@ -19,5 +19,9 @@ Pandas
 # Sprint 1 (Leitura e Diagnóstico)
 Nesta etapa foi baixado manualmente o arquivo CSV com os dados brutos (renomeado para "dados_brutos.csv"), importados para o notebook, e feita uma verificação da estrutura dos dados brutos com registro de valores ausentes, duplicatas, e inconsistências de texto.
 
-# Sprint 2 (Limpeza e padronização)
+# Sprint 2 (Limpeza e Padronização)
 Nesta etapa foram corrigidos os problemas encontrados no SPRINT 1, justificadas as escolhas do tratamento dos problemas encontrados e feita uma comparação entre os dados brutos e os dados tratados nesta etapa (pré-processados).
+
+# Sprint 3 (Funções e Exportação)
+Nesta etapa foram criadas e usadas uma função de tratamento e outra de resumo dos dados, com parâmetro e retorno (é repetido o que foi feito no SPRINT 2, mas usando funções). Por fim é exportado um arquivo CSV com os dados tratados.
+
