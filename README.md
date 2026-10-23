@@ -5,7 +5,7 @@ Mini-Projeto Avaliativo - SCTECH Turma T8 - Paulo Rodrigo Zanin
 Desenvolver uma Análise Exploratória de Dados (AED) aplicada ao varejo, transformando dados brutos em informações que ajudem a compreender o negócio.
 
 # Dados de origem
-Dados brutos obtidos da plataforma Kaeggle: 
+Dados brutos obtidos da plataforma Kaggle: 
 https://www.kaggle.com/datasets/namespaiva/base-varejo/data
 
 # Ambiente de desenvolvimento
